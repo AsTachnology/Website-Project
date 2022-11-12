@@ -1,2 +1,2 @@
 # Website-Project-
-HTML, CSD, JavaScript Design and Tools.
+HTML, CSS, JavaScript Design and Tools.
